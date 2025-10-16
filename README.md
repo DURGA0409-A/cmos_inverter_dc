@@ -12,17 +12,27 @@ CMOS inverter consists of a p-channel MOSFET(PMOS)and an n-channel MOSFET(NMOS)c
 ## Procedure:
 •	Click new->libraryattachtoanexistingtechnologylibrarygpdk045(in technology file)
 •	New cell view (name of the layout)
+
 ## For schematic:
 A.TRANSISTOR DIAGRAM 
+
 <img width="183" height="159" alt="cmos INVERTER DIAG" src="https://github.com/user-attachments/assets/8ff9a85b-ea31-4e90-9178-3e4b215f5db5" />
+
+Fig: CMOS inverter Transistor schematic
+
 B.CADENCE DIAGRAM 
 •	Pick the components NMOS, PMOS, ground, VDD and voltage source.
 •	Connect the wire as per the schematic diagram.
+
 <img width="937" height="455" alt="image" src="https://github.com/user-attachments/assets/d4d97ee1-afd8-4d2e-8055-66f544c4caf7" />
+
 Fig: CMOS inverter schematic
 
 ## For symbol:
+
 <img width="952" height="483" alt="image" src="https://github.com/user-attachments/assets/1d7e26ab-a96a-4fd3-a048-5f68b2b16daa" />
+
+Fig: CMOS inverter symbol
 
 ## DC Analysis and OP:
 a)	In the Analysis section, select dc.
